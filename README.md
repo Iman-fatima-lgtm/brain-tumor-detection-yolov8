@@ -138,10 +138,6 @@ Integrate with hospital PACS or EMR systems
 🙌 Acknowledgements
 Ultralytics YOLOv8
 
-University of Agriculture Faisalabad – Department of CS
-
-Supervisor: Dr. Kareem Ullah
-
 📚 References
 Jiang et al. (2022) – YOLOv5-based brain tumor detection, Computers in Biology and Medicine
 
